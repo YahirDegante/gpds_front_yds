@@ -3,7 +3,7 @@
     <div>
       <h1>Home</h1>
       <p>Bienvenido a la página de inicio.</p>
-      <p>Otro parrafo</p>
+      <p>Yahir Degante :D</p>
     </div>
   </template>
   
